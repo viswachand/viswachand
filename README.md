@@ -5,4 +5,4 @@
 🌱 I’m currently sharpening my skills in **Next.js, System Design, and Cloud-Native Applications**.  
 🎮 Outside of coding, I’m passionate about gaming and exploring new tech innovations.  
 
-📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/viswachand) or via email at **viswachandakkanambattu@gmail.com**.
+📫 You can reach me on [LinkedIn](www.linkedin.com/in/viswachandakkanambattu) or via email at **viswachandakkanambattu@gmail.com**.
